@@ -1,24 +1,13 @@
-# Blockchain Ledger System
-You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+# Fintech Finder
+Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them.This integrates the Ethereum blockchain network into the application to enable instant payments to the fintech professionals with cryptocurrency.
 
 # Instructions
-1. Create a Record Data Class
+   1. Import Ethereum transaction functions into the KryptoJobs2Go application.
+   
+   2. Sign and run a payment transaction.
 
-2. Modify the Existing Block Data Class to Store Record Data
+   3. Inspect the transaction in Ganache.
 
-3. Add Relevant User Inputs to the Streamlit Interface
+# Transaction Info:
 
-4. Test the PyChain Ledger by Storing Records
-
-
-# Transaction Data:
-
-![Image](Transaction_data.png)
-
-# Block Difficulty:
-
-![Image](block_difficulty.png)
-
-# Validation:
-
-![Image](validation.png)
+   - Not achievable as "HTTP connection error as the target machine actively refused it". 

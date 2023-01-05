@@ -10,4 +10,16 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 # Transaction Info:
 
-   - Not achievable as "HTTP connection error as the target machine actively refused it". 
+## Client Account & Balance:
+
+![Image](lane.png)
+![Image](sender_details.png)
+
+## Fintech Professional Wage Rate and address:
+
+![Image](Candidate_address_wage.png)
+
+# Validation Hash:
+
+![Image](Validated.png)
+![Image](transaction.png)

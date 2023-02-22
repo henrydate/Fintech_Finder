@@ -23,3 +23,10 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 ![Image](Validated.png)
 ![Image](transaction.png)
+
+## Contributors
+> Email: Henrydate1@gmail.com |
+> [GitHub](https://github.com/henrydate) |
+> [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
+
+---
